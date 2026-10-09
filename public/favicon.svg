@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="28" fill="#121826"/>
+  <rect x="2" y="2" width="96" height="96" rx="26" stroke="#6366F1" stroke-width="2" stroke-opacity="0.4"/>
+  <circle cx="50" cy="50" r="32" fill="#6366F1" fill-opacity="0.15"/>
+  <path d="M30 50C30 42 34 32 50 32C66 32 70 42 70 50C70 64 50 72 50 72C50 72 30 64 30 50Z" fill="url(#plaud-grad)" />
+  <circle cx="50" cy="46" r="8" fill="#FFFFFF"/>
+  <rect x="36" y="44" width="4" height="12" rx="2" fill="#06B6D4"/>
+  <rect x="44" y="40" width="4" height="20" rx="2" fill="#6366F1"/>
+  <rect x="52" y="40" width="4" height="20" rx="2" fill="#6366F1"/>
+  <rect x="60" y="44" width="4" height="12" rx="2" fill="#10B981"/>
+  <defs>
+    <linearGradient id="plaud-grad" x1="30" y1="32" x2="70" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+</svg>

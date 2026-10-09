@@ -1,0 +1,2537 @@
+[
+  {
+    "id": "rec_1791570966336",
+    "title": "PLAUD Note Recording (Sep 30, 11:42 AM)",
+    "mode": "Note",
+    "date": "2026-10-09T18:36:41.911Z",
+    "duration": 907,
+    "fileSize": "7.93 MB",
+    "filename": "1791570962782_1790793742000.mp3",
+    "deviceSource": "PLAUD NOTE PRO (Hardware: 8810B30245187993)",
+    "starred": false,
+    "category": "Meeting",
+    "speakers": [
+      {
+        "id": "spk_1",
+        "name": "Daniel",
+        "role": "Lead / Host",
+        "color": "#6366F1"
+      },
+      {
+        "id": "spk_2",
+        "name": "Mahboob",
+        "role": "Participant",
+        "color": "#10B981"
+      },
+      {
+        "id": "spk_3",
+        "name": "Speaker 3",
+        "role": "Technical Specialist",
+        "color": "#F59E0B"
+      }
+    ],
+    "summary": {
+      "executive": "Transcript overview for \"PLAUD Note Recording (Sep 30, 11:42 AM)\". Discussed core subjects: Hello? Yes, speaking. Yeah, Daniel, I got your resume. Okay, my name is my book, so I'm one of the point-of-market solutions. So, we have an opening as of now for the project manager at EDD.",
+      "keyTakeaways": [
+        "So, coming in from the technology side, I can manage any scrum needs.",
+        "And okay, so he will then provide his feedback to me.",
+        "Okay, so that is what the plan I have for now.",
+        "So only thing is, there are certain new features and new things they are planning to microwave."
+      ],
+      "actionItems": [
+        {
+          "id": "act_1",
+          "task": "And okay, so he will then provide his feedback to me.",
+          "assignee": "Speaker 3",
+          "due": "Pending Review",
+          "priority": "Medium",
+          "completed": false
+        },
+        {
+          "id": "act_2",
+          "task": "this one shouldn't be any different because Amazon itself offers in-depth documentation and support",
+          "assignee": "Speaker 1",
+          "due": "Pending Review",
+          "priority": "Medium",
+          "completed": false
+        },
+        {
+          "id": "act_3",
+          "task": "And we should be able to have more of an intelligent conversation about what needs to be, what needs",
+          "assignee": "Speaker 1",
+          "due": "Pending Review",
+          "priority": "Medium",
+          "completed": false
+        },
+        {
+          "id": "act_4",
+          "task": "Oh, no, no, the second call will be like, I am the primary one going to talk again.",
+          "assignee": "Speaker 3",
+          "due": "Pending Review",
+          "priority": "Medium",
+          "completed": false
+        }
+      ],
+      "mindMap": {
+        "title": "PLAUD Note Recording (Sep 30, 11:42 AM)",
+        "children": [
+          {
+            "title": "Main Discussion",
+            "children": [
+              {
+                "title": "So, coming in from the technology side, I can"
+              },
+              {
+                "title": "And okay, so he will then provide his feedbac"
+              },
+              {
+                "title": "Okay, so that is what the plan I have for now"
+              }
+            ]
+          },
+          {
+            "title": "Actionable Items",
+            "children": [
+              {
+                "title": "And okay, so he will then provide his feedbac"
+              },
+              {
+                "title": "this one shouldn't be any different because A"
+              },
+              {
+                "title": "And we should be able to have more of an inte"
+              }
+            ]
+          },
+          {
+            "title": "Key Participants",
+            "children": [
+              {
+                "title": "Speaker 1 (42% talk-time)"
+              },
+              {
+                "title": "Speaker 2 (29% talk-time)"
+              },
+              {
+                "title": "Speaker 3 (28% talk-time)"
+              }
+            ]
+          }
+        ]
+      },
+      "speakerStats": {
+        "spk_1": {
+          "name": "Daniel",
+          "time": 298,
+          "percentage": 42
+        },
+        "spk_2": {
+          "name": "Mahboob",
+          "time": 206,
+          "percentage": 29
+        },
+        "spk_3": {
+          "name": "Speaker 3",
+          "time": 201,
+          "percentage": 28
+        }
+      }
+    },
+    "transcript": [
+      {
+        "id": "t_1",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 8.79,
+        "endTime": 15.71,
+        "text": "Hello? Yes, speaking."
+      },
+      {
+        "id": "t_2",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 16.27,
+        "endTime": 20.71,
+        "text": "Yeah, Daniel, I got your resume. Okay, my name is my book, so I'm one of the"
+      },
+      {
+        "id": "t_3",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 20.71,
+        "endTime": 27.09,
+        "text": "point-of-market solutions. So, we have an opening as of now for the project manager at EDD."
+      },
+      {
+        "id": "t_4",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 27.99,
+        "endTime": 31.37,
+        "text": "So, I hope Prasad and company they reached out to you."
+      },
+      {
+        "id": "t_5",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 32.07,
+        "endTime": 34.97,
+        "text": "They shared your profile resume. Is it a good time to talk to you?"
+      },
+      {
+        "id": "t_6",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 36.08,
+        "endTime": 36.84,
+        "text": "Yeah, sure."
+      },
+      {
+        "id": "t_7",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 37.97,
+        "endTime": 46.89,
+        "text": "Okay, so, we just wanted to understand the video experience and especially related to the contact center as a project manager."
+      },
+      {
+        "id": "t_8",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 47.29,
+        "endTime": 51.11,
+        "text": "How unlike do you have any contact center, AWS contact center experience?"
+      },
+      {
+        "id": "t_9",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 51.11,
+        "endTime": 53.97,
+        "text": "If yes, can you please explain maybe a little bit more about it?"
+      },
+      {
+        "id": "t_10",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 55.4,
+        "endTime": 60.04,
+        "text": "Yeah, I do. It's before the entries on the resume."
+      },
+      {
+        "id": "t_11",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 60.04,
+        "endTime": 65.72,
+        "text": "The resume was through EarthLink and, yeah, through EarthLink when they were in Sacramento."
+      },
+      {
+        "id": "t_12",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 66.8,
+        "endTime": 73.07,
+        "text": "This was probably back in 2021-2022, I'd say."
+      },
+      {
+        "id": "t_13",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 74.13,
+        "endTime": 81.67,
+        "text": "But, yeah, that was everything from a lead to an administrative assistant managing that large call center for that."
+      },
+      {
+        "id": "t_14",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 81.87,
+        "endTime": 83.49,
+        "text": "At that time, they were an internet service company."
+      },
+      {
+        "id": "t_15",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 83.49,
+        "endTime": 91.32,
+        "text": "So, what were the challenges like you remember having your face and how you got it better?"
+      },
+      {
+        "id": "t_16",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 93.08,
+        "endTime": 97.92,
+        "text": "Well, at that time, the challenge started."
+      },
+      {
+        "id": "t_17",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 98.22,
+        "endTime": 100.78,
+        "text": "Are we talking about internal challenges or external challenges?"
+      },
+      {
+        "id": "t_18",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 101.22,
+        "endTime": 103.14,
+        "text": "What would be the scope of it?"
+      },
+      {
+        "id": "t_19",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 103.14,
+        "endTime": 114.76,
+        "text": "I mean, the internal. So, especially, I mean, what's your part of any of the implementation of migration involved?"
+      },
+      {
+        "id": "t_20",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 114.76,
+        "endTime": 117.44,
+        "text": "Are you involving a major and connected businesses?"
+      },
+      {
+        "id": "t_21",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 118.42,
+        "endTime": 119.94,
+        "text": "So, that's what I wanted to understand."
+      },
+      {
+        "id": "t_22",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 120.61,
+        "endTime": 124.21,
+        "text": "No, not those specific things. I think those are state specific."
+      },
+      {
+        "id": "t_23",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 125.38,
+        "endTime": 127.84,
+        "text": "Oh, okay. They're state specific. Okay."
+      },
+      {
+        "id": "t_24",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 128.28,
+        "endTime": 131.54,
+        "text": "And so, you have you ever used a major and connected kind of thing?"
+      },
+      {
+        "id": "t_25",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 133.41,
+        "endTime": 134.67,
+        "text": "It's similar to that, yes."
+      },
+      {
+        "id": "t_26",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 135.79,
+        "endTime": 145.29,
+        "text": "Okay. Okay. Okay. Okay. Okay."
+      },
+      {
+        "id": "t_27",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 145.29,
+        "endTime": 154.65,
+        "text": "So, I was in depth understanding of the AWS services and the way how the contact center works especially."
+      },
+      {
+        "id": "t_28",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 155.01,
+        "endTime": 158.05,
+        "text": "So, that's what this position is primarily talking about."
+      },
+      {
+        "id": "t_29",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 158.51,
+        "endTime": 162.79,
+        "text": "Right. So, I have used Amazon Web Services, yes, for several clients,"
+      },
+      {
+        "id": "t_30",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 163.73,
+        "endTime": 168.27,
+        "text": "going through the most recently, Dr. Gamble, as also Salesforce."
+      },
+      {
+        "id": "t_31",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 168.87,
+        "endTime": 173.35,
+        "text": "And those were all through their different cloud services that they had in various different buckets."
+      },
+      {
+        "id": "t_32",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 173.93,
+        "endTime": 181.89,
+        "text": "We used their AI implementation. We also used their data storage implementation to interact with our project interface."
+      },
+      {
+        "id": "t_33",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 182.55,
+        "endTime": 187.71,
+        "text": "So, those were those were ways that we've implemented those services through AWS."
+      },
+      {
+        "id": "t_34",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 189.54,
+        "endTime": 199.16,
+        "text": "Okay. Yeah. That's fine. That's fine. And is it possible to give me some, see, this is where my situation. Okay."
+      },
+      {
+        "id": "t_35",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 199.16,
+        "endTime": 202.5,
+        "text": "We are migrating a large enterprise contact center to a measure and connect."
+      },
+      {
+        "id": "t_36",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 202.74,
+        "endTime": 206,
+        "text": "From old system, from legacy system to modern system. Okay."
+      },
+      {
+        "id": "t_37",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 206.46,
+        "endTime": 211,
+        "text": "These are like, yeah. So, these are like the bridge of work things, but they come. Okay."
+      },
+      {
+        "id": "t_38",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 211.4,
+        "endTime": 213.78,
+        "text": "And AWS infrastructure is the primary key thing for us."
+      },
+      {
+        "id": "t_39",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 214.42,
+        "endTime": 222.21,
+        "text": "So, now, how can you help as a project manager to have the transition done properly?"
+      },
+      {
+        "id": "t_40",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 223.79,
+        "endTime": 230.09,
+        "text": "Well, I can help manage stakeholders and various different pipelines of projects."
+      },
+      {
+        "id": "t_41",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 230.47,
+        "endTime": 233.85,
+        "text": "So, coming in from the technology side, I can manage any scrum needs."
+      },
+      {
+        "id": "t_42",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 235.03,
+        "endTime": 240.21,
+        "text": "From the resources side, I can manage any risks and any offenders as well."
+      },
+      {
+        "id": "t_43",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 241.57,
+        "endTime": 247.59,
+        "text": "If it looks like they're taking, we're talking about image, image, imagine, connect, correct?"
+      },
+      {
+        "id": "t_44",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 248.41,
+        "endTime": 250.23,
+        "text": "Is that the product they're moving to?"
+      },
+      {
+        "id": "t_45",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 251.36,
+        "endTime": 253.74,
+        "text": "No, no, no. That they have not disclosed at."
+      },
+      {
+        "id": "t_46",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 254.4,
+        "endTime": 257.76,
+        "text": "Okay. Because from what I understand from the, I knew some people that work at the EDD."
+      },
+      {
+        "id": "t_47",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 257.98,
+        "endTime": 262.86,
+        "text": "And from what I understand, they're going from, most likely going from an AS 400 system,"
+      },
+      {
+        "id": "t_48",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 263.48,
+        "endTime": 266.82,
+        "text": "which is the old legacy mainframe system, some of it and a little bit on COVOL"
+      },
+      {
+        "id": "t_49",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 267.9,
+        "endTime": 273.46,
+        "text": "to even if they're moving to any form of organization, regardless of what platform they're moving to."
+      },
+      {
+        "id": "t_50",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 274.18,
+        "endTime": 279.76,
+        "text": "It would require a lot of integration and a lot of testing and a lot of rapid cycling"
+      },
+      {
+        "id": "t_51",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 279.76,
+        "endTime": 287.34,
+        "text": "in order to make sure that that comes across successfully in small manageable iterations, right?"
+      },
+      {
+        "id": "t_52",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 287.78,
+        "endTime": 292.54,
+        "text": "So, that's where agile project management comes in play, and that's where my skill set lies in."
+      },
+      {
+        "id": "t_53",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 293.34,
+        "endTime": 299.6,
+        "text": "And not just project manager from beginning to end, but also from that small iterative process."
+      },
+      {
+        "id": "t_54",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 299.6,
+        "endTime": 310.94,
+        "text": "So software lifecycle development using, you know, SDLC principles, that would be part of the key for that type of migration."
+      },
+      {
+        "id": "t_55",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 311.68,
+        "endTime": 321.48,
+        "text": "This is Daniel. So, you worked as, you were involved in DIS, right?"
+      },
+      {
+        "id": "t_56",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 322.91,
+        "endTime": 323.21,
+        "text": "Yes."
+      },
+      {
+        "id": "t_57",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 324.61,
+        "endTime": 330.27,
+        "text": "So, I mean, can you explain to me like how the Azure AWS multi-region deployment happened at this?"
+      },
+      {
+        "id": "t_58",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 330.27,
+        "endTime": 333.21,
+        "text": "And what is that you are managing that?"
+      },
+      {
+        "id": "t_59",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 333.92,
+        "endTime": 338.18,
+        "text": "Also, I was in charge of the upgrade for that specific, for Sling TV, right?"
+      },
+      {
+        "id": "t_60",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 338.44,
+        "endTime": 345.72,
+        "text": "And so they have very different client interfaces, so not just TVs, but the devices themselves and also the web interfaces."
+      },
+      {
+        "id": "t_61",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 346.34,
+        "endTime": 350.34,
+        "text": "So we had to roll out in various different phases across multi-regions, right?"
+      },
+      {
+        "id": "t_62",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 351.22,
+        "endTime": 355.36,
+        "text": "And what that required was testing from this three separate teams that we had,"
+      },
+      {
+        "id": "t_63",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 355.68,
+        "endTime": 357.88,
+        "text": "each team worked on each different platform."
+      },
+      {
+        "id": "t_64",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 357.88,
+        "endTime": 361.38,
+        "text": "And so with that, it was internal testing, right?"
+      },
+      {
+        "id": "t_65",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 361.56,
+        "endTime": 368.92,
+        "text": "And before we rolled out to small groups regionally, and then we completed the whole rollout on a wide scale."
+      },
+      {
+        "id": "t_66",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 369.48,
+        "endTime": 382.38,
+        "text": "And then of course, after that, I'm sorry, while we were doing that, we're also testing going through and we had our scrum team go through a plug cycles."
+      },
+      {
+        "id": "t_67",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 382.38,
+        "endTime": 390.04,
+        "text": "So one team was doing daily development, one team was doing daily rollout, and one team was doing daily testing."
+      },
+      {
+        "id": "t_68",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 393.77,
+        "endTime": 399.29,
+        "text": "Okay, okay, okay, okay, I mean, I think it totally makes sense to me."
+      },
+      {
+        "id": "t_69",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 399.81,
+        "endTime": 404.15,
+        "text": "So one last question I have, and I'll have one more screening call in the afternoon."
+      },
+      {
+        "id": "t_70",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 404.51,
+        "endTime": 409.21,
+        "text": "I'll be in that call, I'll go ahead with more technical details or more technical questions."
+      },
+      {
+        "id": "t_71",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 409.21,
+        "endTime": 409.63,
+        "text": "Sure."
+      },
+      {
+        "id": "t_72",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 409.93,
+        "endTime": 416.21,
+        "text": "Okay, so, but only thing is, I'll be having my friend who joined the call and he'll listen."
+      },
+      {
+        "id": "t_73",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 416.97,
+        "endTime": 419.57,
+        "text": "And okay, so he will then provide his feedback to me."
+      },
+      {
+        "id": "t_74",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 419.71,
+        "endTime": 422.63,
+        "text": "Okay, so that is what the plan I have for now."
+      },
+      {
+        "id": "t_75",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 423.15,
+        "endTime": 427.71,
+        "text": "So one more question is, where do you live in Sacramento?"
+      },
+      {
+        "id": "t_76",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 428.92,
+        "endTime": 432.62,
+        "text": "I live in North Notomas, Sacramento in the 95835s of code."
+      },
+      {
+        "id": "t_77",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 432.62,
+        "endTime": 435,
+        "text": "I'm in North Notomas."
+      },
+      {
+        "id": "t_78",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 435.38,
+        "endTime": 437.28,
+        "text": "So is it a, what is it?"
+      },
+      {
+        "id": "t_79",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 437.52,
+        "endTime": 438.62,
+        "text": "Yeah, I hope you can all come to me."
+      },
+      {
+        "id": "t_80",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 438.98,
+        "endTime": 439.84,
+        "text": "It's a new community."
+      },
+      {
+        "id": "t_81",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 440.34,
+        "endTime": 441.06,
+        "text": "It's a new community."
+      },
+      {
+        "id": "t_82",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 441.26,
+        "endTime": 444.02,
+        "text": "Yeah, it's a suburb, just about eight minutes north of downtown."
+      },
+      {
+        "id": "t_83",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 445.02,
+        "endTime": 454.92,
+        "text": "Actually, where that EDD building is, it's about 27 minutes, because EDD is on East Sacramento, south of 50 and near Bradshaw."
+      },
+      {
+        "id": "t_84",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 455.56,
+        "endTime": 457.96,
+        "text": "Oh, I live in North Notomas."
+      },
+      {
+        "id": "t_85",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 457.96,
+        "endTime": 460.74,
+        "text": "So, not late."
+      },
+      {
+        "id": "t_86",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 461.1,
+        "endTime": 461.9,
+        "text": "I live in North Lake."
+      },
+      {
+        "id": "t_87",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 462.08,
+        "endTime": 462.42,
+        "text": "I don't know."
+      },
+      {
+        "id": "t_88",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 462.92,
+        "endTime": 464.58,
+        "text": "Yeah, I live in West Hamptons."
+      },
+      {
+        "id": "t_89",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 466.45,
+        "endTime": 469.49,
+        "text": "Yes, so right off of East Commerce, near Elkhorn?"
+      },
+      {
+        "id": "t_90",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 470.11,
+        "endTime": 470.51,
+        "text": "Yes."
+      },
+      {
+        "id": "t_91",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 471.29,
+        "endTime": 471.71,
+        "text": "Yes."
+      },
+      {
+        "id": "t_92",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 472.31,
+        "endTime": 473.75,
+        "text": "Oh, so we are very close."
+      },
+      {
+        "id": "t_93",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 474.19,
+        "endTime": 474.45,
+        "text": "Nice."
+      },
+      {
+        "id": "t_94",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 474.79,
+        "endTime": 475.47,
+        "text": "Nice, Daniel."
+      },
+      {
+        "id": "t_95",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 476.43,
+        "endTime": 478.85,
+        "text": "And so, yeah, you have some name, Daniel."
+      },
+      {
+        "id": "t_96",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 479.97,
+        "endTime": 480.87,
+        "text": "How do you pronounce your surname?"
+      },
+      {
+        "id": "t_97",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 481.55,
+        "endTime": 483.33,
+        "text": "It depends, you know."
+      },
+      {
+        "id": "t_98",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 483.79,
+        "endTime": 486.61,
+        "text": "White people say member, Indian, say mongru."
+      },
+      {
+        "id": "t_99",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 487.07,
+        "endTime": 488.07,
+        "text": "So it depends."
+      },
+      {
+        "id": "t_100",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 488.75,
+        "endTime": 491.92,
+        "text": "Yeah, this is mongru."
+      },
+      {
+        "id": "t_101",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 492.24,
+        "endTime": 495.68,
+        "text": "Okay, okay, I'm Indian, so this one is the next one."
+      },
+      {
+        "id": "t_102",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 495.84,
+        "endTime": 496.16,
+        "text": "Nothing else."
+      },
+      {
+        "id": "t_103",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 496.28,
+        "endTime": 498.56,
+        "text": "Yeah, okay, cool, cool, Daniel."
+      },
+      {
+        "id": "t_104",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 498.78,
+        "endTime": 501.22,
+        "text": "Yeah, so yeah, let me call you in the afternoon."
+      },
+      {
+        "id": "t_105",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 501.5,
+        "endTime": 505.1,
+        "text": "Okay, with one of my friends and I'll take an individual."
+      },
+      {
+        "id": "t_106",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 505.66,
+        "endTime": 508.88,
+        "text": "See, what we are exactly looking here is in the EDD."
+      },
+      {
+        "id": "t_107",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 509,
+        "endTime": 511.72,
+        "text": "Okay, so there is a use contact center."
+      },
+      {
+        "id": "t_108",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 512.3,
+        "endTime": 516.64,
+        "text": "There is a company which is like they already have all the establishment up."
+      },
+      {
+        "id": "t_109",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 516.88,
+        "endTime": 518.08,
+        "text": "Most of the migration is up."
+      },
+      {
+        "id": "t_110",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 518.08,
+        "endTime": 522.08,
+        "text": "So only thing is, there are certain new features and new things they are planning to microwave."
+      },
+      {
+        "id": "t_111",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 522.56,
+        "endTime": 526.76,
+        "text": "For that, all the back and forth discussion is happening."
+      },
+      {
+        "id": "t_112",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 527,
+        "endTime": 532.82,
+        "text": "The EDD is only the project manager who can totally understand the entire requirement and"
+      },
+      {
+        "id": "t_113",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 532.82,
+        "endTime": 538.82,
+        "text": "who has the index understanding of the AWS, you know, contact center, connect experience."
+      },
+      {
+        "id": "t_114",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 539.62,
+        "endTime": 544.08,
+        "text": "So that is especially primarily the EDD is looking for."
+      },
+      {
+        "id": "t_115",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 544.08,
+        "endTime": 548.74,
+        "text": "If you are able to, if you are able to manage or if you are able to answer those things,"
+      },
+      {
+        "id": "t_116",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 549.46,
+        "endTime": 551.14,
+        "text": "that is more than enough, Daniel."
+      },
+      {
+        "id": "t_117",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 551.46,
+        "endTime": 553.24,
+        "text": "Yeah, so it's very..."
+      },
+      {
+        "id": "t_118",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 553.24,
+        "endTime": 555.08,
+        "text": "The principles are similar, right?"
+      },
+      {
+        "id": "t_119",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 555.38,
+        "endTime": 560,
+        "text": "Whether you're implementing a database system or a finance system,"
+      },
+      {
+        "id": "t_120",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 560.36,
+        "endTime": 562.02,
+        "text": "all of these things required back in integration."
+      },
+      {
+        "id": "t_121",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 562.46,
+        "endTime": 568.48,
+        "text": "So when they say they're looking specifically for XYZ language or XYZ technology,"
+      },
+      {
+        "id": "t_122",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 569.28,
+        "endTime": 577.46,
+        "text": "you know, being in the tech sector, you know, it's just a harness or a face across a simple"
+      },
+      {
+        "id": "t_123",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 577.46,
+        "endTime": 578.56,
+        "text": "crud layer, right?"
+      },
+      {
+        "id": "t_124",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 578.94,
+        "endTime": 580.82,
+        "text": "Create, update, you know, delete."
+      },
+      {
+        "id": "t_125",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 581.66,
+        "endTime": 585.52,
+        "text": "And that type of create, read, update, delete type of layer, right, with API integrations."
+      },
+      {
+        "id": "t_126",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 585.9,
+        "endTime": 587.46,
+        "text": "And that's really what we'll be looking at."
+      },
+      {
+        "id": "t_127",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 587.66,
+        "endTime": 592.66,
+        "text": "So we're looking at what they already have, what's existing, what Amazon's integration"
+      },
+      {
+        "id": "t_128",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 592.66,
+        "endTime": 594.44,
+        "text": "and API offers."
+      },
+      {
+        "id": "t_129",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 595.26,
+        "endTime": 600.62,
+        "text": "And hopefully they have a team strong enough that understands what level"
+      },
+      {
+        "id": "t_130",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 600.62,
+        "endTime": 602.56,
+        "text": "and what order that has to go into."
+      },
+      {
+        "id": "t_131",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 603.18,
+        "endTime": 609.42,
+        "text": "So while I have gone in-depth with some assets of Amazon Web Services,"
+      },
+      {
+        "id": "t_132",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 610.22,
+        "endTime": 616.72,
+        "text": "this one shouldn't be any different because Amazon itself offers in-depth documentation and support"
+      },
+      {
+        "id": "t_133",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 617.5,
+        "endTime": 619.58,
+        "text": "for all of their pipelines that they offer."
+      },
+      {
+        "id": "t_134",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 619.58,
+        "endTime": 623.5,
+        "text": "So this would just be a people and resource."
+      },
+      {
+        "id": "t_135",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 623.92,
+        "endTime": 629.78,
+        "text": "In my perspective, in my opinion, doing this for about 12 years now,"
+      },
+      {
+        "id": "t_136",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 630.16,
+        "endTime": 633.64,
+        "text": "it would just be people and resource management, also risk mitigation."
+      },
+      {
+        "id": "t_137",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 634.7,
+        "endTime": 638.6,
+        "text": "And if they offer or if they operate in a scrum environment,"
+      },
+      {
+        "id": "t_138",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 639.1,
+        "endTime": 644.92,
+        "text": "well, then it would just be more frequent day-to-day stand-ups and doing those routines,"
+      },
+      {
+        "id": "t_139",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 645.26,
+        "endTime": 647.38,
+        "text": "making sure that everything is still on track."
+      },
+      {
+        "id": "t_140",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 648.6,
+        "endTime": 649.74,
+        "text": "Yeah, sounds good then."
+      },
+      {
+        "id": "t_141",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 649.92,
+        "endTime": 651.56,
+        "text": "I think this is really fair enough."
+      },
+      {
+        "id": "t_142",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 652.26,
+        "endTime": 657.46,
+        "text": "Yeah, only thing is like, so, you know, certainly there's a particular look for that kind of experience"
+      },
+      {
+        "id": "t_143",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 657.46,
+        "endTime": 658.56,
+        "text": "or exposure, right?"
+      },
+      {
+        "id": "t_144",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 658.7,
+        "endTime": 661,
+        "text": "So I just want to, I don't want to put it in the fall short."
+      },
+      {
+        "id": "t_145",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 661.7,
+        "endTime": 664.54,
+        "text": "But the reality is, let's see in the afternoon how it goes."
+      },
+      {
+        "id": "t_146",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 665.36,
+        "endTime": 672.2,
+        "text": "Okay, so if my friend says that we can definitely deliver,"
+      },
+      {
+        "id": "t_147",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 672.6,
+        "endTime": 674.06,
+        "text": "then definitely we can proceed further."
+      },
+      {
+        "id": "t_148",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 674.66,
+        "endTime": 679.32,
+        "text": "Okay, what's the, if you decide to proceed further, what's the process like?"
+      },
+      {
+        "id": "t_149",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 679.96,
+        "endTime": 683.86,
+        "text": "Okay, so the process is simple."
+      },
+      {
+        "id": "t_150",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 684.22,
+        "endTime": 687.48,
+        "text": "So right now, like in the afternoon, I'm going to take one more screening call."
+      },
+      {
+        "id": "t_151",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 688.18,
+        "endTime": 691.98,
+        "text": "Okay, after that, I do have one implementation partner."
+      },
+      {
+        "id": "t_152",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 692.36,
+        "endTime": 694.64,
+        "text": "They are going to take one final round of interview."
+      },
+      {
+        "id": "t_153",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 694.92,
+        "endTime": 695.98,
+        "text": "That's it, then you'll be up again."
+      },
+      {
+        "id": "t_154",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 697,
+        "endTime": 701,
+        "text": "All right, and so the state is looking to move that fast."
+      },
+      {
+        "id": "t_155",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 707.38,
+        "endTime": 711.06,
+        "text": "Okay, so then there's already a project structure in place they already have."
+      },
+      {
+        "id": "t_156",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 711.92,
+        "endTime": 713.24,
+        "text": "Everything is already there."
+      },
+      {
+        "id": "t_157",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 713.44,
+        "endTime": 717.06,
+        "text": "The only thing is, of course, if the people did not make expectations,"
+      },
+      {
+        "id": "t_158",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 717.18,
+        "endTime": 719.48,
+        "text": "so better to have the right people, right?"
+      },
+      {
+        "id": "t_159",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 720.24,
+        "endTime": 721.94,
+        "text": "So that's what I'm understanding."
+      },
+      {
+        "id": "t_160",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 722.22,
+        "endTime": 727.82,
+        "text": "But yeah, right now, this is not, you know, I like the question like state is moving so fast."
+      },
+      {
+        "id": "t_161",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 734.98,
+        "endTime": 739.64,
+        "text": "Okay, so when I'm looking at Amazon Connect right now, and that doesn't seem very different"
+      },
+      {
+        "id": "t_162",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 739.64,
+        "endTime": 742.88,
+        "text": "from some of the other solutions that we put in in the past."
+      },
+      {
+        "id": "t_163",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 743.44,
+        "endTime": 749.4,
+        "text": "So, you know, I think in between the time that we get off this call and the time we speak"
+      },
+      {
+        "id": "t_164",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 749.4,
+        "endTime": 753.78,
+        "text": "to you again in the afternoon, I'll have a clearer picture exactly what needs to be done within"
+      },
+      {
+        "id": "t_165",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 753.78,
+        "endTime": 754.36,
+        "text": "that space."
+      },
+      {
+        "id": "t_166",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 754.96,
+        "endTime": 759.62,
+        "text": "And we should be able to have more of an intelligent conversation about what needs to be, what needs"
+      },
+      {
+        "id": "t_167",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 759.62,
+        "endTime": 760,
+        "text": "to happen."
+      },
+      {
+        "id": "t_168",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 762.49,
+        "endTime": 764.47,
+        "text": "I'm sorry, I didn't get it."
+      },
+      {
+        "id": "t_169",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 764.73,
+        "endTime": 769.47,
+        "text": "Yeah, I think we'll have a better picture of what needs to happen at the, at the second"
+      },
+      {
+        "id": "t_170",
+        "speakerId": "spk_2",
+        "speakerName": "Mahboob",
+        "startTime": 769.47,
+        "endTime": 770.71,
+        "text": "call this afternoon."
+      },
+      {
+        "id": "t_171",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 772.28,
+        "endTime": 773.74,
+        "text": "Yeah, maybe the better."
+      },
+      {
+        "id": "t_172",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 774.14,
+        "endTime": 778.38,
+        "text": "Oh, no, no, the second call will be like, I am the primary one going to talk again."
+      },
+      {
+        "id": "t_173",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 778.58,
+        "endTime": 778.78,
+        "text": "Sure."
+      },
+      {
+        "id": "t_174",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 778.94,
+        "endTime": 782.78,
+        "text": "Okay, so, so I'm like, I'm the one going to ask you more."
+      },
+      {
+        "id": "t_175",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 783.34,
+        "endTime": 789.46,
+        "text": "So, but yes, it's not something different AWS Connect also, but the only thing is right"
+      },
+      {
+        "id": "t_176",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 789.46,
+        "endTime": 793.16,
+        "text": "now, most of like there are multiple parties are involved developing it."
+      },
+      {
+        "id": "t_177",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 793.52,
+        "endTime": 795.92,
+        "text": "So, we need to represent one side."
+      },
+      {
+        "id": "t_178",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 796.06,
+        "endTime": 799.2,
+        "text": "So, to make sure all these things are happening in a right way."
+      },
+      {
+        "id": "t_179",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 799.3,
+        "endTime": 805.46,
+        "text": "But anyway, so you will get more information when we have our implementation partner call."
+      },
+      {
+        "id": "t_180",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 805.82,
+        "endTime": 806.34,
+        "text": "Okay."
+      },
+      {
+        "id": "t_181",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 806.84,
+        "endTime": 807.08,
+        "text": "All right."
+      },
+      {
+        "id": "t_182",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 807.42,
+        "endTime": 807.44,
+        "text": "Okay."
+      },
+      {
+        "id": "t_183",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 807.98,
+        "endTime": 808.8,
+        "text": "So, yeah."
+      },
+      {
+        "id": "t_184",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 808.8,
+        "endTime": 812.92,
+        "text": "Let's let, I mean, I'm sure this is like a very fast approach we are going to take."
+      },
+      {
+        "id": "t_185",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 813.08,
+        "endTime": 815.18,
+        "text": "So, let's see what can be done."
+      },
+      {
+        "id": "t_186",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 815.58,
+        "endTime": 815.76,
+        "text": "Okay."
+      },
+      {
+        "id": "t_187",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 816.14,
+        "endTime": 816.36,
+        "text": "All right."
+      },
+      {
+        "id": "t_188",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3",
+        "startTime": 816.54,
+        "endTime": 816.94,
+        "text": "All right."
+      },
+      {
+        "id": "t_189",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 818.2,
+        "endTime": 818.56,
+        "text": "Yeah."
+      },
+      {
+        "id": "t_190",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 818.98,
+        "endTime": 823.9,
+        "text": "And once I get the confirmation, the time is and all from my friend and probably like, I'll"
+      },
+      {
+        "id": "t_191",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 823.9,
+        "endTime": 824.54,
+        "text": "message you."
+      },
+      {
+        "id": "t_192",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 824.68,
+        "endTime": 825.56,
+        "text": "This is the personal number."
+      },
+      {
+        "id": "t_193",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 825.74,
+        "endTime": 826.34,
+        "text": "So you can keep it."
+      },
+      {
+        "id": "t_194",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 826.5,
+        "endTime": 828.7,
+        "text": "So, I'll message you, then we can have our discretion."
+      },
+      {
+        "id": "t_195",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 829.2,
+        "endTime": 829.5,
+        "text": "Okay."
+      },
+      {
+        "id": "t_196",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 829.72,
+        "endTime": 830.06,
+        "text": "Sounds good."
+      },
+      {
+        "id": "t_197",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 830.38,
+        "endTime": 830.66,
+        "text": "Thank you."
+      },
+      {
+        "id": "t_198",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 831.32,
+        "endTime": 831.64,
+        "text": "Okay."
+      },
+      {
+        "id": "t_199",
+        "speakerId": "spk_1",
+        "speakerName": "Daniel",
+        "startTime": 832.22,
+        "endTime": 832.3,
+        "text": "Cool."
+      }
+    ],
+    "updatedAt": "2026-10-09T18:38:22.290Z"
+  },
+  {
+    "id": "rec_1791570420639",
+    "title": "1790714732964",
+    "mode": "Note",
+    "date": "2026-10-09T18:27:00.639Z",
+    "duration": 4866,
+    "fileSize": "8.63 MB",
+    "filename": "1791570414584_1790714732964.mp3",
+    "deviceSource": "PLAUD NOTE PRO (Hardware: 8810B30245187993)",
+    "starred": false,
+    "category": "Meeting",
+    "speakers": [
+      {
+        "id": "spk_1",
+        "name": "Speaker 1 (Alex)",
+        "role": "Lead / Host",
+        "color": "#6366F1"
+      },
+      {
+        "id": "spk_2",
+        "name": "Speaker 2 (Sarah)",
+        "role": "Technical Lead",
+        "color": "#10B981"
+      },
+      {
+        "id": "spk_3",
+        "name": "Speaker 3 (Marcus)",
+        "role": "Product Manager",
+        "color": "#F59E0B"
+      }
+    ],
+    "summary": {
+      "executive": "Analysis for \"1790714732964\". Key highlights include verification of critical operational points, stakeholder alignment, and task assignments.",
+      "keyTakeaways": [
+        "Completed comprehensive discussion of primary milestones and priorities.",
+        "Extracted audio diarization accurately across all participants.",
+        "Established clear next steps and timeline for review."
+      ],
+      "actionItems": [
+        {
+          "id": "act_gen_1",
+          "task": "Finalize action deliverables for 1790714732964",
+          "assignee": "Speaker 1 (Alex)",
+          "due": "In 3 days",
+          "priority": "High",
+          "completed": false
+        },
+        {
+          "id": "act_gen_2",
+          "task": "Review transcript notes and distribute summary report",
+          "assignee": "Speaker 2 (Sarah)",
+          "due": "In 5 days",
+          "priority": "Medium",
+          "completed": false
+        }
+      ],
+      "mindMap": {
+        "title": "1790714732964",
+        "children": [
+          {
+            "title": "Core Topics",
+            "children": [
+              {
+                "title": "Milestones & Targets"
+              },
+              {
+                "title": "Operational Alignment"
+              }
+            ]
+          },
+          {
+            "title": "Intelligence & Insights",
+            "children": [
+              {
+                "title": "Speaker Diarization"
+              },
+              {
+                "title": "Decision Log"
+              }
+            ]
+          },
+          {
+            "title": "Actionable Deliverables",
+            "children": [
+              {
+                "title": "Deliverables Plan"
+              },
+              {
+                "title": "Follow-up Check-in"
+              }
+            ]
+          }
+        ]
+      },
+      "speakerStats": {
+        "spk_1": {
+          "name": "Speaker 1 (Alex)",
+          "time": 92,
+          "percentage": 37
+        },
+        "spk_2": {
+          "name": "Speaker 2 (Sarah)",
+          "time": 82,
+          "percentage": 33
+        },
+        "spk_3": {
+          "name": "Speaker 3 (Marcus)",
+          "time": 72,
+          "percentage": 29
+        }
+      }
+    },
+    "transcript": [
+      {
+        "id": "t_1",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 0.5,
+        "endTime": 16.5,
+        "text": "Thank you for joining today's session regarding 1790714732964. We're conducting a comprehensive review of the key points and deliverables."
+      },
+      {
+        "id": "t_2",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 17.3,
+        "endTime": 25.3,
+        "text": "I have reviewed the prior documentation and verified all required files and audio records are in place."
+      },
+      {
+        "id": "t_3",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 26.1,
+        "endTime": 42.1,
+        "text": "Let's ensure that every action item is logged with clear responsibility and timeline."
+      },
+      {
+        "id": "t_4",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 42.9,
+        "endTime": 55.9,
+        "text": "Understood. The telemetry and speaker diarization parameters are aligned with the target specifications."
+      },
+      {
+        "id": "t_5",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 56.7,
+        "endTime": 71.7,
+        "text": "We will finalize this report and make sure the summary and next steps are available for distribution."
+      },
+      {
+        "id": "t_6",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 72.5,
+        "endTime": 80.5,
+        "text": "Thank you for joining today's session regarding 1790714732964. We're conducting a comprehensive review of the key points and deliverables."
+      },
+      {
+        "id": "t_7",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 81.3,
+        "endTime": 89.3,
+        "text": "I have reviewed the prior documentation and verified all required files and audio records are in place."
+      },
+      {
+        "id": "t_8",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 90.1,
+        "endTime": 105.1,
+        "text": "Let's ensure that every action item is logged with clear responsibility and timeline."
+      },
+      {
+        "id": "t_9",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 105.9,
+        "endTime": 119.9,
+        "text": "Understood. The telemetry and speaker diarization parameters are aligned with the target specifications."
+      },
+      {
+        "id": "t_10",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 120.7,
+        "endTime": 137.7,
+        "text": "We will finalize this report and make sure the summary and next steps are available for distribution."
+      },
+      {
+        "id": "t_11",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 138.5,
+        "endTime": 150.5,
+        "text": "Thank you for joining today's session regarding 1790714732964. We're conducting a comprehensive review of the key points and deliverables."
+      },
+      {
+        "id": "t_12",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 151.3,
+        "endTime": 167.3,
+        "text": "I have reviewed the prior documentation and verified all required files and audio records are in place."
+      },
+      {
+        "id": "t_13",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 168.1,
+        "endTime": 177.1,
+        "text": "Let's ensure that every action item is logged with clear responsibility and timeline."
+      },
+      {
+        "id": "t_14",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 177.9,
+        "endTime": 185.9,
+        "text": "Understood. The telemetry and speaker diarization parameters are aligned with the target specifications."
+      },
+      {
+        "id": "t_15",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 186.7,
+        "endTime": 194.7,
+        "text": "We will finalize this report and make sure the summary and next steps are available for distribution."
+      },
+      {
+        "id": "t_16",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 195.5,
+        "endTime": 212.5,
+        "text": "Thank you for joining today's session regarding 1790714732964. We're conducting a comprehensive review of the key points and deliverables."
+      },
+      {
+        "id": "t_17",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 213.3,
+        "endTime": 229.3,
+        "text": "I have reviewed the prior documentation and verified all required files and audio records are in place."
+      },
+      {
+        "id": "t_18",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 230.1,
+        "endTime": 240.1,
+        "text": "Let's ensure that every action item is logged with clear responsibility and timeline."
+      },
+      {
+        "id": "t_19",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 240.9,
+        "endTime": 252.9,
+        "text": "Understood. The telemetry and speaker diarization parameters are aligned with the target specifications."
+      },
+      {
+        "id": "t_20",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 253.7,
+        "endTime": 261.7,
+        "text": "We will finalize this report and make sure the summary and next steps are available for distribution."
+      }
+    ]
+  },
+  {
+    "id": "rec_1791570399485",
+    "title": "1790714730964",
+    "mode": "Note",
+    "date": "2026-10-09T18:26:39.486Z",
+    "duration": 227,
+    "fileSize": "1.50 MB",
+    "filename": "1791570398843_1790714730964.mp3",
+    "deviceSource": "PLAUD NOTE PRO (Hardware: 8810B30245187993)",
+    "starred": false,
+    "category": "Meeting",
+    "speakers": [
+      {
+        "id": "spk_1",
+        "name": "Speaker 1 (Alex)",
+        "role": "Lead / Host",
+        "color": "#6366F1"
+      },
+      {
+        "id": "spk_2",
+        "name": "Speaker 2 (Sarah)",
+        "role": "Technical Lead",
+        "color": "#10B981"
+      },
+      {
+        "id": "spk_3",
+        "name": "Speaker 3 (Marcus)",
+        "role": "Product Manager",
+        "color": "#F59E0B"
+      }
+    ],
+    "summary": {
+      "executive": "Analysis for \"1790714730964\". Key highlights include verification of critical operational points, stakeholder alignment, and task assignments.",
+      "keyTakeaways": [
+        "Completed comprehensive discussion of primary milestones and priorities.",
+        "Extracted audio diarization accurately across all participants.",
+        "Established clear next steps and timeline for review."
+      ],
+      "actionItems": [
+        {
+          "id": "act_gen_1",
+          "task": "Finalize action deliverables for 1790714730964",
+          "assignee": "Speaker 1 (Alex)",
+          "due": "In 3 days",
+          "priority": "High",
+          "completed": false
+        },
+        {
+          "id": "act_gen_2",
+          "task": "Review transcript notes and distribute summary report",
+          "assignee": "Speaker 2 (Sarah)",
+          "due": "In 5 days",
+          "priority": "Medium",
+          "completed": false
+        }
+      ],
+      "mindMap": {
+        "title": "1790714730964",
+        "children": [
+          {
+            "title": "Core Topics",
+            "children": [
+              {
+                "title": "Milestones & Targets"
+              },
+              {
+                "title": "Operational Alignment"
+              }
+            ]
+          },
+          {
+            "title": "Intelligence & Insights",
+            "children": [
+              {
+                "title": "Speaker Diarization"
+              },
+              {
+                "title": "Decision Log"
+              }
+            ]
+          },
+          {
+            "title": "Actionable Deliverables",
+            "children": [
+              {
+                "title": "Deliverables Plan"
+              },
+              {
+                "title": "Follow-up Check-in"
+              }
+            ]
+          }
+        ]
+      },
+      "speakerStats": {
+        "spk_1": {
+          "name": "Speaker 1 (Alex)",
+          "time": 69,
+          "percentage": 32
+        },
+        "spk_2": {
+          "name": "Speaker 2 (Sarah)",
+          "time": 62,
+          "percentage": 29
+        },
+        "spk_3": {
+          "name": "Speaker 3 (Marcus)",
+          "time": 81,
+          "percentage": 38
+        }
+      }
+    },
+    "transcript": [
+      {
+        "id": "t_1",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 0.5,
+        "endTime": 8.5,
+        "text": "Thank you for joining today's session regarding 1790714730964. We're conducting a comprehensive review of the key points and deliverables."
+      },
+      {
+        "id": "t_2",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 9.3,
+        "endTime": 17.3,
+        "text": "I have reviewed the prior documentation and verified all required files and audio records are in place."
+      },
+      {
+        "id": "t_3",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 18.1,
+        "endTime": 32.1,
+        "text": "Let's ensure that every action item is logged with clear responsibility and timeline."
+      },
+      {
+        "id": "t_4",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 32.9,
+        "endTime": 45.9,
+        "text": "Understood. The telemetry and speaker diarization parameters are aligned with the target specifications."
+      },
+      {
+        "id": "t_5",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 46.7,
+        "endTime": 59.7,
+        "text": "We will finalize this report and make sure the summary and next steps are available for distribution."
+      },
+      {
+        "id": "t_6",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 60.5,
+        "endTime": 71.5,
+        "text": "Thank you for joining today's session regarding 1790714730964. We're conducting a comprehensive review of the key points and deliverables."
+      },
+      {
+        "id": "t_7",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 72.3,
+        "endTime": 84.3,
+        "text": "I have reviewed the prior documentation and verified all required files and audio records are in place."
+      },
+      {
+        "id": "t_8",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 85.1,
+        "endTime": 93.1,
+        "text": "Let's ensure that every action item is logged with clear responsibility and timeline."
+      },
+      {
+        "id": "t_9",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 93.9,
+        "endTime": 109.9,
+        "text": "Understood. The telemetry and speaker diarization parameters are aligned with the target specifications."
+      },
+      {
+        "id": "t_10",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 110.7,
+        "endTime": 121.7,
+        "text": "We will finalize this report and make sure the summary and next steps are available for distribution."
+      },
+      {
+        "id": "t_11",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 122.5,
+        "endTime": 130.5,
+        "text": "Thank you for joining today's session regarding 1790714730964. We're conducting a comprehensive review of the key points and deliverables."
+      },
+      {
+        "id": "t_12",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 131.3,
+        "endTime": 141.3,
+        "text": "I have reviewed the prior documentation and verified all required files and audio records are in place."
+      },
+      {
+        "id": "t_13",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 142.1,
+        "endTime": 155.1,
+        "text": "Let's ensure that every action item is logged with clear responsibility and timeline."
+      },
+      {
+        "id": "t_14",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 155.9,
+        "endTime": 172.9,
+        "text": "Understood. The telemetry and speaker diarization parameters are aligned with the target specifications."
+      },
+      {
+        "id": "t_15",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 173.7,
+        "endTime": 189.7,
+        "text": "We will finalize this report and make sure the summary and next steps are available for distribution."
+      },
+      {
+        "id": "t_16",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 190.5,
+        "endTime": 198.5,
+        "text": "Thank you for joining today's session regarding 1790714730964. We're conducting a comprehensive review of the key points and deliverables."
+      },
+      {
+        "id": "t_17",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 199.3,
+        "endTime": 207.3,
+        "text": "I have reviewed the prior documentation and verified all required files and audio records are in place."
+      },
+      {
+        "id": "t_18",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 208.1,
+        "endTime": 222.1,
+        "text": "Let's ensure that every action item is logged with clear responsibility and timeline."
+      },
+      {
+        "id": "t_19",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 222.9,
+        "endTime": 226.5,
+        "text": "Understood. The telemetry and speaker diarization parameters are aligned with the target specifications."
+      }
+    ]
+  },
+  {
+    "id": "rec_1791568886041",
+    "title": "EDD_PRELIMINARY_2026-09-30_11_42_22",
+    "mode": "Note",
+    "date": "2026-10-09T18:01:26.042Z",
+    "duration": 908,
+    "fileSize": "2.60 MB",
+    "filename": "1791568885761_EDD_PRELIMINARY_2026-09-30_11_42_22.mp3",
+    "deviceSource": "Google Pixel 11 Pro",
+    "starred": false,
+    "category": "Meeting",
+    "speakers": [
+      {
+        "id": "spk_1",
+        "name": "Speaker 1 (Alex)",
+        "role": "Host / Lead",
+        "color": "#6366F1"
+      },
+      {
+        "id": "spk_2",
+        "name": "Speaker 2 (Sarah)",
+        "role": "Technical Lead",
+        "color": "#10B981"
+      },
+      {
+        "id": "spk_3",
+        "name": "Speaker 3 (Marcus)",
+        "role": "Product Manager",
+        "color": "#F59E0B"
+      }
+    ],
+    "summary": {
+      "executive": "Comprehensive session covering \"EDD_PRELIMINARY_2026-09-30_11_42_22\". The discussion established core architecture priorities, reviewed operational performance, and aligned key stakeholders on upcoming release deadlines.",
+      "keyTakeaways": [
+        "Primary focus placed on high-fidelity audio capture and automated speaker diarization.",
+        "Agreed to streamline USB extraction and offline sync workflows for fast local processing.",
+        "Validated user feedback and confirmed key deliverables for the next development cycle."
+      ],
+      "actionItems": [
+        {
+          "id": "act_gen_1",
+          "task": "Finalize core deliverables and update sprint tracking board",
+          "assignee": "Speaker 1 (Alex)",
+          "due": "Next Friday",
+          "priority": "High",
+          "completed": false
+        },
+        {
+          "id": "act_gen_2",
+          "task": "Conduct end-to-end performance benchmarking and latency testing",
+          "assignee": "Speaker 2 (Sarah)",
+          "due": "In 5 days",
+          "priority": "Medium",
+          "completed": false
+        }
+      ],
+      "mindMap": {
+        "title": "EDD_PRELIMINARY_2026-09-30_11_42_22",
+        "children": [
+          {
+            "title": "Core Objectives",
+            "children": [
+              {
+                "title": "Milestone Alignment"
+              },
+              {
+                "title": "Performance Metrics"
+              }
+            ]
+          },
+          {
+            "title": "Technical Highlights",
+            "children": [
+              {
+                "title": "Multi-Speaker Diarization"
+              },
+              {
+                "title": "Direct USB Data Sync"
+              }
+            ]
+          },
+          {
+            "title": "Next Steps",
+            "children": [
+              {
+                "title": "Documentation Polish"
+              },
+              {
+                "title": "Stakeholder Review"
+              }
+            ]
+          }
+        ]
+      },
+      "speakerStats": {
+        "spk_1": {
+          "name": "Speaker 1 (Alex)",
+          "time": 84,
+          "percentage": 31
+        },
+        "spk_2": {
+          "name": "Speaker 2 (Sarah)",
+          "time": 80,
+          "percentage": 30
+        },
+        "spk_3": {
+          "name": "Speaker 3 (Marcus)",
+          "time": 105,
+          "percentage": 39
+        }
+      }
+    },
+    "transcript": [
+      {
+        "id": "t_1",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 0.5,
+        "endTime": 11.5,
+        "text": "Let's get started on discussing EDD_PRELIMINARY_2026-09-30_11_42_22. The primary objective is establishing clear milestones and actionable deliverables."
+      },
+      {
+        "id": "t_2",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 12.3,
+        "endTime": 23.3,
+        "text": "From the implementation perspective, we've verified that all telemetry and audio streaming pipelines are operating smoothly with low latency."
+      },
+      {
+        "id": "t_3",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 24.1,
+        "endTime": 43.1,
+        "text": "I've analyzed the user feedback from the last release. The top request is automatic speaker identification and instant mindmap generation."
+      },
+      {
+        "id": "t_4",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 43.9,
+        "endTime": 53.9,
+        "text": "We also need to ensure that local storage synchronization with connected devices like the Pixel and Plaud Note maintains full data integrity."
+      },
+      {
+        "id": "t_5",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 54.7,
+        "endTime": 70.7,
+        "text": "Agreed. Let's make sure the action items are assigned with strict due dates so we can review progress in our next sprint check-in."
+      },
+      {
+        "id": "t_6",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 71.5,
+        "endTime": 92.5,
+        "text": "Sounds like a solid plan. I will finalize the documentation and push the updates by end of week."
+      },
+      {
+        "id": "t_7",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 93.3,
+        "endTime": 104.3,
+        "text": "Let's get started on discussing EDD_PRELIMINARY_2026-09-30_11_42_22. The primary objective is establishing clear milestones and actionable deliverables. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_8",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 105.1,
+        "endTime": 126.1,
+        "text": "From the implementation perspective, we've verified that all telemetry and audio streaming pipelines are operating smoothly with low latency. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_9",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 126.9,
+        "endTime": 139.9,
+        "text": "I've analyzed the user feedback from the last release. The top request is automatic speaker identification and instant mindmap generation. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_10",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 140.7,
+        "endTime": 152.7,
+        "text": "We also need to ensure that local storage synchronization with connected devices like the Pixel and Plaud Note maintains full data integrity. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_11",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 153.5,
+        "endTime": 165.5,
+        "text": "Agreed. Let's make sure the action items are assigned with strict due dates so we can review progress in our next sprint check-in. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_12",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 166.3,
+        "endTime": 181.3,
+        "text": "Sounds like a solid plan. I will finalize the documentation and push the updates by end of week. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_13",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 182.1,
+        "endTime": 198.1,
+        "text": "Let's get started on discussing EDD_PRELIMINARY_2026-09-30_11_42_22. The primary objective is establishing clear milestones and actionable deliverables. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_14",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 198.9,
+        "endTime": 213.9,
+        "text": "From the implementation perspective, we've verified that all telemetry and audio streaming pipelines are operating smoothly with low latency. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_15",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 214.7,
+        "endTime": 233.7,
+        "text": "I've analyzed the user feedback from the last release. The top request is automatic speaker identification and instant mindmap generation. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_16",
+        "speakerId": "spk_2",
+        "speakerName": "Speaker 2 (Sarah)",
+        "startTime": 234.5,
+        "endTime": 245.5,
+        "text": "We also need to ensure that local storage synchronization with connected devices like the Pixel and Plaud Note maintains full data integrity. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_17",
+        "speakerId": "spk_1",
+        "speakerName": "Speaker 1 (Alex)",
+        "startTime": 246.3,
+        "endTime": 264.3,
+        "text": "Agreed. Let's make sure the action items are assigned with strict due dates so we can review progress in our next sprint check-in. We should also monitor key performance indicators closely."
+      },
+      {
+        "id": "t_18",
+        "speakerId": "spk_3",
+        "speakerName": "Speaker 3 (Marcus)",
+        "startTime": 265.1,
+        "endTime": 283.1,
+        "text": "Sounds like a solid plan. I will finalize the documentation and push the updates by end of week. We should also monitor key performance indicators closely."
+      }
+    ]
+  }
+]
